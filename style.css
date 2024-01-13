@@ -1,0 +1,20 @@
+.catimg {
+width: 400px;    
+}
+nav{
+margin:20px 0px;
+padding-right:70px;
+padding:20px 0px;
+background:#0000CD;
+text-align: center;
+}
+
+nav a {
+text-decoration:none;
+padding:1px;
+color:white;
+}
+
+.textpocentrybl {
+  text-align: center;
+}
