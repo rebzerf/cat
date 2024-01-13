@@ -1,6 +1,10 @@
 .catimg {
 width: 400px;    
 }
+
+img {
+width: 400px
+}
 nav{
 margin:20px 0px;
 padding-right:70px;
